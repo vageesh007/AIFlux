@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct AIFluxApp: App {
+struct WordFluxApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
