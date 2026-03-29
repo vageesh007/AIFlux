@@ -9,6 +9,8 @@ Unlike traditional quiz apps with static datasets, LexiFlux AI delivers **infini
 
 ---
 
+https://github.com/user-attachments/assets/8767e2d1-1eb3-45c1-922b-b271aedd1828
+
 ## 🎯 Key Features  
 
 - 🧠 **AI-Generated Puzzles**  
