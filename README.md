@@ -1,5 +1,13 @@
-# 🚀 PuzzleFlux AI  
-### 🧠 AI-Powered Vocabulary Puzzle App (iOS | SwiftUI)
+<h1 align="center">🚀 PuzzleFlux AI</h1>
+<h3 align="center">🧠 AI-Powered Vocabulary Puzzle App (iOS | SwiftUI)</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-iOS-blue?style=for-the-badge&logo=apple" />
+  <img src="https://img.shields.io/badge/Language-Swift-orange?style=for-the-badge&logo=swift" />
+  <img src="https://img.shields.io/badge/Framework-SwiftUI-0A84FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-On--Device-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Architecture-MVVM-purple?style=for-the-badge" />
+</p>
 
 ---
 
