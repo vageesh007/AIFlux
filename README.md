@@ -1,4 +1,4 @@
-# 🚀 LexiFlux AI  
+# 🚀 PuzzleFlux AI  
 ### 🧠 AI-Powered Vocabulary Puzzle App (iOS | SwiftUI)
 
 ---
